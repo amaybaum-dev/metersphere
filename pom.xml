@@ -42,7 +42,7 @@
         <xmlbeans.version>3.1.0</xmlbeans.version>
         <swagger-parser.version>2.1.8</swagger-parser.version>
         <rhino.version>1.7.13</rhino.version>
-        <jsoup.version>1.15.2</jsoup.version>
+        <jsoup.version>1.15.3</jsoup.version>
         <commonmark.version>0.19.0</commonmark.version>
         <commons-compress.version>1.21</commons-compress.version>
         <htmlcleaner.version>2.26</htmlcleaner.version>
